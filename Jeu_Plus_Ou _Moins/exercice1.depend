@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1576681284 source:c:\users\mourchid\desktop\exercice1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+	<sys/types.h>
+
+1576778378 source:c:\users\mourchid\desktop\exercice1\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"prototype.h"
+
+1576778370 c:\users\mourchid\desktop\exercice1\prototype.h
+
